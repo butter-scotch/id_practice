@@ -1017,6 +1017,10 @@ footer
   transition: 0.5s;
 }
 
+.footernav-menu a:link, a:visited, a:active{
+  color: #ffffff;
+}
+
 .footernav-menu a:hover{
   opacity: 0.8;
 }
