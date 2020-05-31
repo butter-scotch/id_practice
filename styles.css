@@ -275,6 +275,12 @@ header-sp
   text-decoration: none;
 }
 
+.navheader-content ul a:link,
+a:visited,
+a:active {
+  color: #ffffff;
+}
+
 .menubar {
   height: 45px;
   padding-left: 7%;
